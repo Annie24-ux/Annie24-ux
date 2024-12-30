@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siphesihle Sibiya</h1>
 <h3 align="center">A passionate aspiring Software developer from South Africa</h3>
 
-<img width="400px" height="300px" src="https://www.istockphoto.com/vector/software-developer-semi-flat-color-vector-character-gm1342829261-422006429">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annie24-ux&label=Profile%20views&color=0e75b6&style=flat" alt="annie24-ux" /> </p>
 
 - 🌱 I’m currently learning **more about Frameworks, i.e React, React Native,js.**
