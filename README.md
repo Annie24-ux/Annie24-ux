@@ -1,4 +1,4 @@
-//<img  align="center" text-align="center" width="400px" height="300px" src="lady.jpeg">
+
 
 <h1 align="center" >Hi 👋, I'm Siphesihle Sibiya</h1>
 <h3 align="center">A passionate aspiring Software developer from South Africa</h3>
