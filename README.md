@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annie24-ux&label=Profile%20views&color=0e75b6&style=flat" alt="annie24-ux" /> </p>
 
-- 🌱 I’m currently learning **more about Frameworks, i.e React, React Native,js.**
+- 🌱 I’m currently learning **Springboot.**
 
 - 👨‍💻 All of my projects are available at [https://devbysiphesihle.netlify.app/](https://devbysiphesihle.netlify.app/)
 
